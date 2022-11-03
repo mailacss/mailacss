@@ -1,7 +1,5 @@
  # Olá
 
-          
-
 <div align="center">
   <a href="https://github.com/mailacss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mailacss&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
@@ -24,13 +22,10 @@
 
   <div align="center">
             <a href="https://www.linkedin.com/in/maila-cssantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-            <a href="cardmaila19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-                        <a href="https://www.linkedin.com/in/maila-cssantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+            <a href="mailto:cardmaila19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
-         
-##
-          
-- 🔭 Estou trabalhando com
-- 🌱 Estou aprendendo
-- 📫 How to reach me: ...
+ 
+  <div align="center" border-radius:"50%">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/9f1253138b8ac719081aa3bfc292dc87.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  </div>
 
